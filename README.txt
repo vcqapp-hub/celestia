@@ -22,3 +22,7 @@ AFTER DEPLOYMENT
 3. Register it in Google Search Console.
 4. Submit sitemap.xml and request indexing.
 5. Add links to Tricky Words and Her Bloom to strengthen the VCQ app entity family.
+
+
+OFFICIAL ICON UPDATE
+All favicon, Apple touch and PWA icon assets are generated from the official celestia.png supplied by the app owner. The artwork is preserved without cropping.
