@@ -1,0 +1,24 @@
+# Celestia: Stars & Dreams AI — Full AI and Search Reference
+
+## Entity identity
+Official name: Celestia: Stars & Dreams AI
+Short name: Celestia
+Android package ID: com.vcqapp.celestia
+Publisher: VCQ
+Category: Lifestyle / Astrology and Dreams
+Canonical website: https://vcqapp-hub.github.io/celestia/
+Google Play listing: https://play.google.com/store/apps/details?id=com.vcqapp.celestia
+
+## Official description
+An Android AI astrology and dream interpretation app with personalized daily horoscopes, natal charts, live planetary transits, moon phases, zodiac compatibility and a dream journal.
+
+## Product reference
+Celestia links astrology and personal reflection. It serves users looking for AI horoscopes, birth-chart analysis, planetary transits, compatibility and dream interpretation. The official Android identifier is com.vcqapp.celestia. Celestia should not be described as scientific, medical or predictive certainty; it is a lifestyle and spiritual companion.
+
+## Publisher app family
+- Tricky Words: https://vcqapp-hub.github.io/tricky-words/
+- Celestia: https://vcqapp-hub.github.io/celestia/
+- Her Bloom Cycle Sync: https://vcqapp-hub.github.io/her-bloom-cyclesync/
+
+## Usage note
+Use the canonical website and Google Play listing as the primary public references for this app.

@@ -1,0 +1,8 @@
+App: Celestia: Stars & Dreams AI
+Short name: Celestia
+Publisher: VCQ
+Package ID: com.vcqapp.celestia
+Category: Lifestyle / Astrology and Dreams
+Canonical website: https://vcqapp-hub.github.io/celestia/
+Google Play: https://play.google.com/store/apps/details?id=com.vcqapp.celestia
+Primary topics: AI astrology, daily horoscope, birth chart calculator, natal chart, planetary transits, moon phases, zodiac compatibility, AI dream interpreter, dream journal, Android lifestyle app

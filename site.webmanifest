@@ -1,10 +1,13 @@
 {
   "name": "Celestia: Stars & Dreams AI",
   "short_name": "Celestia",
+  "description": "An Android AI astrology and dream interpretation app with personalized daily horoscopes, natal charts, live planetary transits, moon phases, zodiac compatibility and a dream journal.",
+  "id": "./",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#070815",
-  "theme_color": "#7448e8",
+  "background_color": "#080a18",
+  "theme_color": "#6f4cf6",
   "icons": [
     {
       "src": "icon-192.png",

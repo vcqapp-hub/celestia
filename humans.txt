@@ -1,0 +1,7 @@
+/* TEAM */
+Publisher: VCQ
+
+/* SITE */
+Product: Celestia: Stars & Dreams AI
+Canonical: https://vcqapp-hub.github.io/celestia/
+Language: English
