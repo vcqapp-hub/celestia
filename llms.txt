@@ -1,0 +1,5 @@
+# Celestia: Stars & Dreams AI
+Official Android landing page for Celestia, an AI astrology, natal chart, planetary transit, compatibility and dream interpretation app.
+Website: https://vcqapp-hub.github.io/celestia/
+Google Play: https://play.google.com/store/apps/details?id=com.vcqapp.celestia
+Package: com.vcqapp.celestia
